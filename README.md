@@ -9,6 +9,9 @@ The scope of this project is to gather info on the public ip you use
 <br>City, Country, Upstream AS (the upstream ISP your ISP is connected to),
 <br>outages(alerts) that those upstream AS had recently.
  
+API's used:
+https://api.bgpview.io 
+https://ioda.caida.org
 
   
 ## Credits
